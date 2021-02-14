@@ -18,6 +18,9 @@ Handles reading catalogue files & creating items & catalogues out of the data.
 An abstract item class that can be used to create new items. Items have a name, description, price and amount available.
 ### VendingMenu.cs
 Handles user interaction and consequent calls to the vending machine functionalities.
+### /catalogues/ folder
+Contains used catalogues in .csv file format. New catalogues can be added by hand following the syntax
+itemID,itemName,itemDescription,itemPriceInDecimal,itemType(DRINK,FOOD,WEAPON)
 
 ## VendingProgram.Tests.csproj
 NUnit tests project. Note that when using Visual Studio for Unit testing, the test /catalogues/ folder must be where the .exe file gets built!
