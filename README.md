@@ -20,7 +20,7 @@ An abstract item class that can be used to create new items. Items have a name, 
 Handles user interaction and consequent calls to the vending machine functionalities.
 
 ## VendingProgram.Tests.csproj
-NUnit tests project.
+NUnit tests project. Note that when using Visual Studio for Unit testing, the test /catalogues/ folder must be where the .exe file gets built!
 ### UnitTests.cs
 Contains unit tests for the project.
 ### FakeLogger.cs
