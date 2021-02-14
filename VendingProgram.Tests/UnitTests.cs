@@ -158,6 +158,8 @@ namespace VendingProgram.Tests
         {
             m.FillCatalogue();
             m.AddMoney(2);
+            // Set amount to at least 2 (amount is randomized, so this test can randomly fail if not manually set!)
+            m.currentCatalogue["D1"].AmountAvailable = 2;
             int amountBeforePurchase = m.currentCatalogue["D1"].AmountAvailable;
             m.TryPurchase("D1");
             int amountAfterPurchase = m.currentCatalogue["D1"].AmountAvailable;

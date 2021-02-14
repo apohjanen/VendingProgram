@@ -406,3 +406,10 @@
 [14.2.2021 15.58.42] Removed 1,25 money from the machine. Current money is now 2,75
 [14.2.2021 15.58.42] An item was bought: Silly Cat Juice box
 [14.2.2021 15.58.42] User purchased an item with ID D1
+[14.2.2021 16.40.21] Found 3 catalogue choices.
+[14.2.2021 16.40.21] Catalogue name C:\Users\antti\OneDrive\Documents\VSCode\VendingProgramSubmit\VendingProgram\catalogues\Beverages.csv
+[14.2.2021 16.40.21] Catalogue name C:\Users\antti\OneDrive\Documents\VSCode\VendingProgramSubmit\VendingProgram\catalogues\Foods.csv
+[14.2.2021 16.40.21] Catalogue name C:\Users\antti\OneDrive\Documents\VSCode\VendingProgramSubmit\VendingProgram\catalogues\Mixed.csv
+[14.2.2021 16.40.21] Generating a new catalogue from C:\Users\antti\OneDrive\Documents\VSCode\VendingProgramSubmit\VendingProgram\catalogues\Beverages.csv
+[14.2.2021 16.40.21] Catalogue from file 'C:\Users\antti\OneDrive\Documents\VSCode\VendingProgramSubmit\VendingProgram\catalogues\Beverages.csv' generated with 4 items.
+[14.2.2021 16.40.21] ====== Machine turned on 14.2.2021 16.40.21======

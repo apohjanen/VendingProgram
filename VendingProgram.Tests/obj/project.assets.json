@@ -4644,11 +4644,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\antti\\OneDrive\\Documents\\VSCode\\VendingProgram\\VendingProgram.Tests\\VendingProgram.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\antti\\OneDrive\\Documents\\VSCode\\VendingProgramSubmit\\VendingProgram.Tests\\VendingProgram.Tests.csproj",
       "projectName": "VendingProgram.Tests",
-      "projectPath": "C:\\Users\\antti\\OneDrive\\Documents\\VSCode\\VendingProgram\\VendingProgram.Tests\\VendingProgram.Tests.csproj",
+      "projectPath": "C:\\Users\\antti\\OneDrive\\Documents\\VSCode\\VendingProgramSubmit\\VendingProgram.Tests\\VendingProgram.Tests.csproj",
       "packagesPath": "C:\\Users\\antti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\antti\\OneDrive\\Documents\\VSCode\\VendingProgram\\VendingProgram.Tests\\obj\\",
+      "outputPath": "C:\\Users\\antti\\OneDrive\\Documents\\VSCode\\VendingProgramSubmit\\VendingProgram.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\antti\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4665,8 +4665,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\antti\\OneDrive\\Documents\\VSCode\\VendingProgram\\VendingProgram\\VendingProgram.csproj": {
-              "projectPath": "C:\\Users\\antti\\OneDrive\\Documents\\VSCode\\VendingProgram\\VendingProgram\\VendingProgram.csproj"
+            "C:\\Users\\antti\\OneDrive\\Documents\\VSCode\\VendingProgramSubmit\\VendingProgram\\VendingProgram.csproj": {
+              "projectPath": "C:\\Users\\antti\\OneDrive\\Documents\\VSCode\\VendingProgramSubmit\\VendingProgram\\VendingProgram.csproj"
             }
           }
         }
